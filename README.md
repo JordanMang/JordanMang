@@ -1,11 +1,14 @@
-### Hi there 👋
-
+### Hello there, I'm Jordan Mang 👋
+<br>
+🔭 Always inspired by what a GAN can create. <br>
+🌱 Currently learning advanced computer vision techniques. <br>
+💬 Ask me about MTG, best burrito in Seattle, and my Lego collection.
 <!--
 **JordanMang/JordanMang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on improving my projects ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
